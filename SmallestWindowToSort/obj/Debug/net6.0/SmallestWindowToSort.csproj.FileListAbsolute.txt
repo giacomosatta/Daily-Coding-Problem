@@ -1,0 +1,15 @@
+C:\Users\giacomo.satta\Desktop\Daily Coding Problem\SmallestWindowToSort\bin\Debug\net6.0\SmallestWindowToSort.exe
+C:\Users\giacomo.satta\Desktop\Daily Coding Problem\SmallestWindowToSort\bin\Debug\net6.0\SmallestWindowToSort.deps.json
+C:\Users\giacomo.satta\Desktop\Daily Coding Problem\SmallestWindowToSort\bin\Debug\net6.0\SmallestWindowToSort.runtimeconfig.json
+C:\Users\giacomo.satta\Desktop\Daily Coding Problem\SmallestWindowToSort\bin\Debug\net6.0\SmallestWindowToSort.dll
+C:\Users\giacomo.satta\Desktop\Daily Coding Problem\SmallestWindowToSort\bin\Debug\net6.0\SmallestWindowToSort.pdb
+C:\Users\giacomo.satta\Desktop\Daily Coding Problem\SmallestWindowToSort\obj\Debug\net6.0\SmallestWindowToSort.csproj.AssemblyReference.cache
+C:\Users\giacomo.satta\Desktop\Daily Coding Problem\SmallestWindowToSort\obj\Debug\net6.0\SmallestWindowToSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giacomo.satta\Desktop\Daily Coding Problem\SmallestWindowToSort\obj\Debug\net6.0\SmallestWindowToSort.AssemblyInfoInputs.cache
+C:\Users\giacomo.satta\Desktop\Daily Coding Problem\SmallestWindowToSort\obj\Debug\net6.0\SmallestWindowToSort.AssemblyInfo.cs
+C:\Users\giacomo.satta\Desktop\Daily Coding Problem\SmallestWindowToSort\obj\Debug\net6.0\SmallestWindowToSort.csproj.CoreCompileInputs.cache
+C:\Users\giacomo.satta\Desktop\Daily Coding Problem\SmallestWindowToSort\obj\Debug\net6.0\SmallestWindowToSort.dll
+C:\Users\giacomo.satta\Desktop\Daily Coding Problem\SmallestWindowToSort\obj\Debug\net6.0\refint\SmallestWindowToSort.dll
+C:\Users\giacomo.satta\Desktop\Daily Coding Problem\SmallestWindowToSort\obj\Debug\net6.0\SmallestWindowToSort.pdb
+C:\Users\giacomo.satta\Desktop\Daily Coding Problem\SmallestWindowToSort\obj\Debug\net6.0\SmallestWindowToSort.genruntimeconfig.cache
+C:\Users\giacomo.satta\Desktop\Daily Coding Problem\SmallestWindowToSort\obj\Debug\net6.0\ref\SmallestWindowToSort.dll

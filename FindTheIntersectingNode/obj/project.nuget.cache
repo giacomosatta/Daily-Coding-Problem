@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kt34V4ZfWNGMPLbGp6I+0kGzEZgb6rDH93UuVlPuokap+nyVXglKbcsi1guc5XBl6LCP1smq8b2S/jNeI99rSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\giacomo.satta\\Desktop\\Daily Coding Problem\\FindTheIntersectingNode\\FindTheIntersectingNode.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://crmitalia.azurewebsites.net/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
